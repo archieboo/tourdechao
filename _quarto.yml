@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bon Voyage"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme:
+      - simplex
+      - brand
+    css: styles.css
+
+
+

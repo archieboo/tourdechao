@@ -1,0 +1,27 @@
+---
+title: "A wine centric tour of Bourgogne"
+date: 2025-06-26
+categories: [travel, burgundy, bourgogne, wine]
+---
+
+### Getting to Bourgogne
+
+We took TGV from Gare de Lyon in Paris to Dijon. From there, we rented a car and drove to Beaune. 
+
+
+### Cote de Nuits
+
+![](romanee.jpg){width=70% fig-align="center"}
+
+### Cote d'Or
+
+
+![](santenay.jpg){width=70% fig-align="center"}
+
+### Beaujolais & Lyon
+
+![](cluny.jpg){width=70% fig-align="center"}
+
+![](lyon.HEIC){width=70% fig-align="center"}
+
+
