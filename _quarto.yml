@@ -3,7 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Bon Voyage"
+  title: "Tour de Chao"
+  description: "Sharing my travel experiences tout le monde."
+  favicon: archie-icon.jpg
   navbar:
     right:
       - about.qmd
